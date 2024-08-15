@@ -1,0 +1,17 @@
+.header{
+    position: relative;
+    background-color: red;
+
+}
+.header-sub{
+    position: fixed;
+    top: 10px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 72rem;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
